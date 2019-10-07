@@ -1,2 +1,2 @@
 # Machine-Learning-in-MATLAB
-This has code for  Linear and Logistic Regression, SVM, classification, Anomaly Detection, Recommender System. 
+This has code for  Linear and Logistic Regression, SVM, classification, Anomaly Detection, Recommender System. All the mathematics invloved is coded by me in MATLAB script. Computation is in vectorized formulation wherever possible, it makes the code run faster when iterating over thousands of samples. This is solution for online course on machine learning, so the live scripts, data and assessment is created by the course providers. 
